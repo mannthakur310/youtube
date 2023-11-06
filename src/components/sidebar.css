@@ -1,0 +1,44 @@
+.panel{
+   flex: 0.2;
+}
+.panel> hr{
+    border: 1px solid rgb(195, 194, 194);
+}
+.sidebar-row{
+    display: flex;
+    align-items: center;
+    padding: 1px 5px;
+}
+.sidebar-row-icons{
+    color: rgb(90, 89, 89);
+}
+.sidebar-row-name{
+    color:  rgb(90, 89, 89);
+    padding-left: 5px;
+    font-size: xx-small;
+}
+
+.sidebar-row:hover{
+    background-color:  rgb(196, 191, 191);
+    cursor: pointer;
+}
+
+.sidebar-row:hover > .sidebar-row-icons{
+    color: red;
+}
+.sidebar-row:hover > .sidebar-row-name{
+    color: black;
+    font-weight: bold;
+    font-size: xx-small;
+}
+.sidebar-row.selected{
+    background-color:  rgb(196, 191, 191) ;
+}
+.sidebar-row.selected > .sidebar-row-icons{
+    color: red;
+}
+.sidebar-row.selected > .sidebar-row-name{
+    color: black;
+    font-weight: bold;
+    font-size: xx-small;
+}

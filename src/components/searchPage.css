@@ -1,0 +1,18 @@
+.searchpage{
+    flex: 0.8;
+    background-color: #f9f9f9;
+    padding: 20px 20px;
+    padding-bottom: 0;
+}
+.search_filter{
+    display: flex;
+    align-items: center;
+    color: gray;
+}
+.search_filter>h5{
+    padding-left: 7px;
+}
+.searchpage>hr{
+    border: 1px solid rgb(195, 194, 194);
+    margin-top: 0;
+}

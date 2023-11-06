@@ -1,0 +1,29 @@
+.channel-card{
+    display: flex;
+    align-items: center;
+    width: 70%;
+    margin-bottom: 25px;
+}
+.profile{
+    height: 140px !important;
+    width: 150px !important;
+    margin: 10px 60px; 
+}
+.channel-over-view{
+    display: flex;
+    flex-direction: column;
+}
+.channel-over-view>p{
+    color: gray;
+    margin: 0;
+    font-size: small;
+}
+.channel-over-view>h5{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 0;
+    font-size: large;
+    font-weight: 500;
+}
+   

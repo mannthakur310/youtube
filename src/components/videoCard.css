@@ -1,0 +1,29 @@
+
+.video-card{
+    width: 270px;
+    margin-bottom: 40px;
+    margin-left: 20px;
+}
+.thumnail-image{
+    width: 250px;
+    height: 140px;
+}
+
+.video-text{
+    margin-top: 0;
+}
+.channel-info{
+    display: flex;
+}
+.video-text>h4{
+    margin: 0;
+    margin-left: 4px;
+    font-size: small;
+    font-weight: 630;
+}
+.video-text>p{
+    margin: 0;
+    margin-left: 4px;
+    font-size: x-small;
+    color: rgb(84, 83, 83);
+}

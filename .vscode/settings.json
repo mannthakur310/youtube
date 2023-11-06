@@ -1,0 +1,20 @@
+{
+    "deepscan.ignoreConfirmWarning": true,
+    "cSpell.language": "en,en-GB,en-US,lorem",
+    "cSpell.enableFiletypes": [
+        "!csharp",
+        "!git-commit",
+        "!typescript",
+        "ejs"
+    ],
+    "cSpell.words": [
+        "noopener",
+        "Ondemand",
+        "Recommedvideos",
+        "SUSCRIBE",
+        "Suscription",
+        "thumnail",
+        "videorow",
+        "Whatshot"
+    ]
+}

@@ -1,0 +1,43 @@
+
+.box{
+    display: flex;
+    align-items:flex-start;
+    margin-bottom: 20px;
+}
+.thumnail{
+    height: 170px;
+    width: 350px;
+    border-radius: 9px;
+}
+
+.video-row-logo{
+    display: flex;
+    align-items: center;
+    align-items: center;
+    margin-top: 9px;
+}
+.video-row-logo>p{
+    margin-left: 10px;
+}
+
+.video-row-text{
+    margin: 0 10px;
+}
+.video-row-text>p{
+    margin: 0;
+    color: gray;
+    font-size: smaller;
+}
+.video-row-text>h5{
+    margin: 0 ;
+    font-size: medium;
+}
+.subs{
+    color: rgb(90, 62, 230);
+}
+.text{
+    background-color: lightgray;
+}
+.video-description{
+    font-weight: 400;
+}
